@@ -83,7 +83,3 @@ bmi-calculator/
 - Matplotlib
 - Pillow (PIL)
 
-## Acknowledgments
-
-- Developed as part of the Oasis Infobyte Internship Program
-
