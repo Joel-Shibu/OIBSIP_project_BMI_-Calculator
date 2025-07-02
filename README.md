@@ -21,8 +21,8 @@ A modern, user-friendly BMI (Body Mass Index) calculator application with data v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Joel-Shibu/OIBSIP_project_BMI_-Calculator.git
-   cd bmi-calculator
+   git clone https://github.com/Joel-Shibu/BMI_Calculator
+   cd BMI-Calculator
    ```
 
 2. Install the required dependencies:
