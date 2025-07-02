@@ -2,7 +2,7 @@
 
 A modern, user-friendly BMI (Body Mass Index) calculator application with data visualization, built with Python and Tkinter.
 
-![BMI Calculator Screenshot][.BMIcalculator.png]
+![BMI Calculator Screenshot](BMIcalculator.png)
 
 ## Features
 
